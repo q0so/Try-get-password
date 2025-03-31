@@ -18,3 +18,6 @@ This game is about obtaining the password to advance to the next level, so you'l
 > Do not ask AI for help.  
 > Do not look at the code.  
 > If you do any of these, you are cheating!
+
+# Play now 
+Ready to play ? So <a href="https://q0so.github.io/Try-get-password">Click here</a>
